@@ -51,7 +51,7 @@
 	    <td align="center" >23</td>
 	</tr>
 	<tr >
-	    <td align="center" >24<br><span>40个</span></td>
+	    <td align="center" >24日<br><span>40个</span></td>
 	    <td align="center" >25</td>
 	    <td align="center" >26</td>
 	    <td align="center" >27</td>
