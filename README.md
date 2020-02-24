@@ -1,4 +1,5 @@
-### 俯卧撑打卡
+## <center>俯卧撑打卡</center>
+
 
 <table align="center">
 	<tr>
@@ -16,7 +17,7 @@
 	    <td></td>
 	    <td></td>
 	    <td></td>
-	    <td align="center">1<br><span>12个</span></td>
+	    <td>1<br><span>12个</span></td>
 	    <td>2</td>
 	</tr>
 	<tr >
