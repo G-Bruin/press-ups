@@ -53,8 +53,8 @@
 	<tr >
 	    <td align="center" >24<br><span>40个</span></td>
 	    <td align="center" >25<br><span>40个</span></td>
-	    <td align="center" >26</td>
-	    <td align="center" >27</td>
+	    <td align="center" >26<br><span>40个</span></td>
+	    <td align="center" >27<br><span>40个</span></td>
 	    <td align="center" >28</td>
 	    <td align="center" >29</td>
 	    <td align="center" ></td>
