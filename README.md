@@ -55,7 +55,7 @@
 	    <td align="center" >25<br><span>40个</span></td>
 	    <td align="center" >26<br><span>40个</span></td>
 	    <td align="center" >27<br><span>40个</span></td>
-	    <td align="center" >28</td>
+	    <td align="center" >28<br><span>60个</span></td>
 	    <td align="center" >29</td>
 	    <td align="center" ></td>
 	</tr>
