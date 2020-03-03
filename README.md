@@ -25,7 +25,7 @@
 	</tr>
     <tr >
         <td align="center" >2<br><span>40个</span></td>
-        <td align="center" >3</td>
+        <td align="center" >3<br><span>55个</span></td>
         <td align="center" >4</td>
         <td align="center" >5</td>
         <td align="center" >6</td>
