@@ -27,7 +27,7 @@
         <td align="center" >2<br><span>40个</span></td>
         <td align="center" >3<br><span>55个</span></td>
         <td align="center" >4<br><span>70个</span></td>
-        <td align="center" >5</td>
+        <td align="center" >5<br><span>40个</span></td>
         <td align="center" >6</td>
         <td align="center" >7</td>
         <td align="center" >8</td>
