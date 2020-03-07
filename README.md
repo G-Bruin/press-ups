@@ -29,7 +29,7 @@
         <td align="center" >4<br><span>70个</span></td>
         <td align="center" >5<br><span>40个</span></td>
         <td align="center" >6<br><span>40个</span></td>
-        <td align="center" >7</td>
+        <td align="center" >7<br><span>60个</span></td>
         <td align="center" >8</td>
     </tr>
 
