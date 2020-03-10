@@ -30,8 +30,17 @@
         <td align="center" >5<br><span>40个</span></td>
         <td align="center" >6<br><span>40个</span></td>
         <td align="center" >7<br><span>60个</span></td>
-        <td align="center" >8</td>
+        <td align="center" >8<br><span>40个</span></td>
     </tr>
+     <tr >
+            <td align="center" >9<br><span>40个</span></td>
+            <td align="center" >10<br><span>40个</span></td>
+            <td align="center" >11</td>
+            <td align="center" >12</td>
+            <td align="center" >13</td>
+            <td align="center" >14</td>
+            <td align="center" >15</td>
+        </tr>
 
 </table>
 
