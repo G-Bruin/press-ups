@@ -36,10 +36,10 @@
             <td align="center" >9<br><span>40个</span></td>
             <td align="center" >10<br><span>40个</span></td>
             <td align="center" >11</td>
-            <td align="center" >12</td>
+            <td align="center" >12<br><span>40个</span></td>
             <td align="center" >13</td>
-            <td align="center" >14</td>
-            <td align="center" >15</td>
+            <td align="center" >14<br><span>40个</span></td>
+            <td align="center" >15<br><span>60个</span></td>
         </tr>
 
 </table>
